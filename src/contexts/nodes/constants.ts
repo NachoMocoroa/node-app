@@ -1,0 +1,6 @@
+export const NODES_REQUEST = 'NODES_REQUEST';
+export const NODES_SUCCESS = 'NODES_SUCCESS';
+export const NODES_ERROR = 'NODES_ERROR';
+export const NODE_SUCCESS = 'NODE_SUCCESS';
+export const NODE_UPDATED = 'NODE_UPDATED';
+export const NODE_DELETED = 'NODE_DELETED';
